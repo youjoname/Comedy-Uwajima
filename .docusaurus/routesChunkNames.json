@@ -1,173 +1,130 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---comedy-uwajima-docusaurus-debugb-38-86b"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---comedy-uwajima-docusaurus-debugb-38-86b"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---comedy-uwajima-docusaurus-debugb-38-86b"
-    },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---comedy-uwajima-docusaurus-debugb-38-86b"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---comedy-uwajima-docusaurus-debugb-38-86b"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---comedy-uwajima-docusaurus-debugb-38-86b"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---comedy-uwajima-docusaurus-debugb-38-86b"
-    }
-  },
   "/markdown-page-3d7": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---comedy-uwajima-markdown-pagea-74-4fe"
+      "plugin": "a7456010"
     },
-    "content": "content---comedy-uwajima-markdown-page-393-43a"
+    "content": "393be207"
   },
   "/-f2e": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---comedy-uwajima-aba-f9c"
+      "plugin": "aba21aa0"
     }
   },
   "/-d4b": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---22-d-307"
+    "__comp": "a7bd4aaa",
+    "__props": "22dd74f7"
   },
   "/-030": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/christianity-john-5da": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-christianity-john-5-f-2-415"
+    "__comp": "17896441",
+    "content": "5f2b1c2c"
   },
   "/christianity-mary-b48": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-christianity-maryf-96-c9f"
+    "__comp": "17896441",
+    "content": "f9606df0"
   },
   "/christianity-saint-peter-954": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-christianity-saint-peter-800-e40"
+    "__comp": "17896441",
+    "content": "8000a664"
   },
   "/cooking-bread-835": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-cooking-bread-886-634"
+    "__comp": "17896441",
+    "content": "886618b8"
   },
   "/cooking-curry-8c6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-cooking-curryd-6-d-375"
+    "__comp": "17896441",
+    "content": "d6d0c60a"
   },
   "/cooking-potato-memories-530": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-cooking-potato-memoriesa-9-e-ce9"
+    "__comp": "17896441",
+    "content": "a9ec4938"
   },
   "/cooking-ramen-524": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-cooking-ramen-68-e-c58"
+    "__comp": "17896441",
+    "content": "68e9b024"
   },
   "/cooking-sushi-nightmare-49d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-cooking-sushi-nightmare-8-a-8-48c"
+    "__comp": "17896441",
+    "content": "8a8c7db5"
   },
   "/cooking-yakiniku-181": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-cooking-yakinikued-5-721"
+    "__comp": "17896441",
+    "content": "ed56484a"
   },
   "/greeting-dc0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-greeting-179-7b8"
+    "__comp": "17896441",
+    "content": "17950e23"
   },
   "/historical-figures-franklin-496": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-historical-figures-franklin-719-509"
+    "__comp": "17896441",
+    "content": "71919727"
   },
   "/incident-everest-7cc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-incident-everest-624-530"
+    "__comp": "17896441",
+    "content": "62434169"
   },
   "/incident-hakkoda-6f4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-incident-hakkodaef-2-656"
+    "__comp": "17896441",
+    "content": "ef212148"
   },
   "/incident-sewol-3d0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-incident-sewol-0-a-5-fb1"
+    "__comp": "17896441",
+    "content": "0a5ce3c3"
   },
   "/incident-shiretoko-f0b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-incident-shiretoko-524-4f7"
+    "__comp": "17896441",
+    "content": "52431cd5"
   },
   "/planet-mars-07d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-planet-marsb-01-567"
+    "__comp": "17896441",
+    "content": "b01005f7"
   },
   "/planet-mercury-f02": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-planet-mercuryd-40-5f5"
+    "__comp": "17896441",
+    "content": "d402c73d"
   },
   "/planet-pluto-a24": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-planet-plutofd-3-509"
+    "__comp": "17896441",
+    "content": "fd3964ff"
   },
   "/tutorial-basics/congratulations-855": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-tutorial-basics-congratulations-822-242"
+    "__comp": "17896441",
+    "content": "822bd8ab"
   },
   "/tutorial-basics/create-a-blog-post-af7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-tutorial-basics-create-a-blog-post-533-299"
+    "__comp": "17896441",
+    "content": "533a09ca"
   },
   "/tutorial-basics/create-a-document-bd4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-tutorial-basics-create-a-document-1-e-4-74e"
+    "__comp": "17896441",
+    "content": "1e4232ab"
   },
   "/tutorial-basics/create-a-page-aed": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-tutorial-basics-create-a-page-5-c-8-61e"
+    "__comp": "17896441",
+    "content": "5c868d36"
   },
   "/tutorial-basics/deploy-your-site-f5a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-tutorial-basics-deploy-your-sitef-55-45b"
+    "__comp": "17896441",
+    "content": "f55d3e7a"
   },
   "/tutorial-basics/markdown-features-89e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-tutorial-basics-markdown-features-18-c-d31"
+    "__comp": "17896441",
+    "content": "18c41134"
   },
   "/tutorial-extras/manage-docs-versions-e1f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-tutorial-extras-manage-docs-versionsdff-714"
+    "__comp": "17896441",
+    "content": "dff1c289"
   },
   "/tutorial-extras/translate-your-site-dea": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-tutorial-extras-translate-your-sitee-44-771"
+    "__comp": "17896441",
+    "content": "e44a2883"
   },
   "/-5f7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---comedy-uwajima-0-e-3-29b"
+    "__comp": "17896441",
+    "content": "0e384e19"
   }
 }
