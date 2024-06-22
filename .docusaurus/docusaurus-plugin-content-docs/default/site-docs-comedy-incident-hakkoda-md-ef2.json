@@ -1,0 +1,27 @@
+{
+  "id": "comedy/incident-hakkoda",
+  "title": "Hakkoda's Deadly Snow Defeats Japanese Army",
+  "description": "英 Welcome to the podcast, folks! Today, we've got an expert on military history joining us. They've got some wild stories about armies getting their asses kicked by Mother Nature. So, tell us about this crazy Japanese snow disaster.",
+  "source": "@site/docs/comedy/incident-hakkoda.md",
+  "sourceDirName": "comedy",
+  "slug": "/incident-hakkoda",
+  "permalink": "/incident-hakkoda",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "incident-hakkoda",
+    "title": "Hakkoda's Deadly Snow Defeats Japanese Army",
+    "slug": "/incident-hakkoda"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "The Shiretoko Sightseeing Boat Sinking Incident",
+    "permalink": "/incident-shiretoko"
+  },
+  "next": {
+    "title": "The Sewol Ferry Disaster",
+    "permalink": "/incident-sewol"
+  }
+}

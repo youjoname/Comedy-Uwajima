@@ -1,0 +1,27 @@
+{
+  "id": "comedy/doc-salt-tsunami",
+  "title": "Salt Tsunami",
+  "description": "英 Jamie, check this out. Some health guru is saying we need to cut back on salt.",
+  "source": "@site/docs/comedy/salt-tsunami.md",
+  "sourceDirName": "comedy",
+  "slug": "/comedy-salt-tsunami",
+  "permalink": "/Comedy-Uwajima/comedy-salt-tsunami",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "doc-salt-tsunami",
+    "title": "Salt Tsunami",
+    "slug": "/comedy-salt-tsunami"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "Digital Shamans",
+    "permalink": "/Comedy-Uwajima/comedy-degital-shamans"
+  },
+  "next": {
+    "title": "GPT-4o",
+    "permalink": "/Comedy-Uwajima/comedy-gpt-4o"
+  }
+}

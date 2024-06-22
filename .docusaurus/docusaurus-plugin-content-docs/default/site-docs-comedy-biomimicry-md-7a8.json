@@ -1,0 +1,23 @@
+{
+  "id": "comedy/doc-biomimicry",
+  "title": "Biomimicry",
+  "description": "英So, we're diving into this futuristic science stuff today. Have you heard about biomimicry?",
+  "source": "@site/docs/comedy/Biomimicry.md",
+  "sourceDirName": "comedy",
+  "slug": "/comedy-biomimicry",
+  "permalink": "/Comedy-Uwajima/comedy-biomimicry",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "doc-biomimicry",
+    "title": "Biomimicry",
+    "slug": "/comedy-biomimicry"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "Beautiful Text",
+    "permalink": "/Comedy-Uwajima/comedy-beautiful-text"
+  }
+}

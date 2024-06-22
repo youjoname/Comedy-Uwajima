@@ -1,0 +1,27 @@
+{
+  "id": "comedy/cooking-yakiniku",
+  "title": "The Great Yakiniku Revolution",
+  "description": "英So, we're talking about this plant-based revolution, right? People ditching steaks for salads. But here's what I'm wondering: what's gonna happen to traditional meat dishes like yakiniku in Japan?",
+  "source": "@site/docs/comedy/cooking-yakiniku.md",
+  "sourceDirName": "comedy",
+  "slug": "/cooking-yakiniku",
+  "permalink": "/cooking-yakiniku",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "cooking-yakiniku",
+    "title": "The Great Yakiniku Revolution",
+    "slug": "/cooking-yakiniku"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "Bread Therapy Changing Lives of Seniors",
+    "permalink": "/cooking-bread"
+  },
+  "next": {
+    "title": "Potato Memories",
+    "permalink": "/cooking-potato-memories"
+  }
+}

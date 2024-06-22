@@ -1,0 +1,27 @@
+{
+  "id": "comedy/doc-beautiful-text",
+  "title": "Beautiful Text",
+  "description": "英 Alright, let's cut the crap. Fancy writing is like a peacock's tail, all show and no substance. In today's world, nobody's got time for that! We're bombarded with information from every angle, and ain't nobody got time to decipher flowery prose when they're just trying to figure out what to order for dinner.",
+  "source": "@site/docs/comedy/beautiful-text.md",
+  "sourceDirName": "comedy",
+  "slug": "/comedy-beautiful-text",
+  "permalink": "/Comedy-Uwajima/comedy-beautiful-text",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "doc-beautiful-text",
+    "title": "Beautiful Text",
+    "slug": "/comedy-beautiful-text"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "Bread Baking",
+    "permalink": "/Comedy-Uwajima/comedy-bread-baking"
+  },
+  "next": {
+    "title": "Biomimicry",
+    "permalink": "/Comedy-Uwajima/comedy-biomimicry"
+  }
+}

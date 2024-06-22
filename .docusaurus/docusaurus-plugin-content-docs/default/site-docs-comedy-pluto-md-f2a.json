@@ -1,0 +1,27 @@
+{
+  "id": "comedy/doc-pluto",
+  "title": "Pluto",
+  "description": "英 So, I'm reading this article about Pluto, right?",
+  "source": "@site/docs/comedy/pluto.md",
+  "sourceDirName": "comedy",
+  "slug": "/comedy-pluto",
+  "permalink": "/Comedy-Uwajima/comedy-pluto",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "doc-pluto",
+    "title": "Pluto",
+    "slug": "/comedy-pluto"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "Mercury's Solar Roast",
+    "permalink": "/Comedy-Uwajima/planet-mercury"
+  },
+  "next": {
+    "title": "GPT-4o",
+    "permalink": "/Comedy-Uwajima/comedy-gpt-4o"
+  }
+}

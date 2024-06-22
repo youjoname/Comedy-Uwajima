@@ -1,0 +1,27 @@
+{
+  "id": "comedy/cooking-bread",
+  "title": "Bread Therapy Changing Lives of Seniors",
+  "description": "英Welcome, folks! Today we've got a real treat - a guest who's mixing up research in a way that'll make you think twice about your kitchen.",
+  "source": "@site/docs/comedy/cooking-bread.md",
+  "sourceDirName": "comedy",
+  "slug": "/cooking-bread",
+  "permalink": "/cooking-bread",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "cooking-bread",
+    "title": "Bread Therapy Changing Lives of Seniors",
+    "slug": "/cooking-bread"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "Futuristic Japanese Curry",
+    "permalink": "/cooking-curry"
+  },
+  "next": {
+    "title": "The Great Yakiniku Revolution",
+    "permalink": "/cooking-yakiniku"
+  }
+}

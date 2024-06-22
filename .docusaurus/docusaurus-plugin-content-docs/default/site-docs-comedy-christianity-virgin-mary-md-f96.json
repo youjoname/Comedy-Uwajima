@@ -1,0 +1,27 @@
+{
+  "id": "comedy/christianity-mary",
+  "title": "Virgin Mary Myth and Future of Reproduction",
+  "description": "Start writing here...",
+  "source": "@site/docs/comedy/christianity-virgin-mary.md",
+  "sourceDirName": "comedy",
+  "slug": "/christianity-mary",
+  "permalink": "/christianity-mary",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "christianity-mary",
+    "title": "Virgin Mary Myth and Future of Reproduction",
+    "slug": "/christianity-mary"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "🎵 Welcome",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Saint Peter Roast",
+    "permalink": "/christianity-saint-peter"
+  }
+}

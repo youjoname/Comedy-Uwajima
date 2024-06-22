@@ -1,0 +1,27 @@
+{
+  "id": "comedy/doc-degital-shamans",
+  "title": "Digital Shamans",
+  "description": "英 Whoa! Folks, listen up! Today's guest is like a digital Mary Poppins meets Blade Runner. She's an elementary school teacher who's basically running a mini Silicon Valley in her classroom. Welcome, Miss T—or should I say, Neo from \"The Matrix: Elementary Edition\"?",
+  "source": "@site/docs/comedy/degital-shamans.md",
+  "sourceDirName": "comedy",
+  "slug": "/comedy-degital-shamans",
+  "permalink": "/Comedy-Uwajima/comedy-degital-shamans",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "doc-degital-shamans",
+    "title": "Digital Shamans",
+    "slug": "/comedy-degital-shamans"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "Pluto",
+    "permalink": "/Comedy-Uwajima/comedy-pluto"
+  },
+  "next": {
+    "title": "GPT-4o",
+    "permalink": "/Comedy-Uwajima/comedy-gpt-4o"
+  }
+}

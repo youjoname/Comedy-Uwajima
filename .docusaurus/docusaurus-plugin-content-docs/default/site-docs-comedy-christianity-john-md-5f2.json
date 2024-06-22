@@ -1,0 +1,27 @@
+{
+  "id": "comedy/christianity-john",
+  "title": "John the Hype Man",
+  "description": "英 Alright, folks, let's talk about John the Baptist, the original spiritual hype man. This guy was Jesus' warm-up act, the opening band before the main event.",
+  "source": "@site/docs/comedy/christianity-john.md",
+  "sourceDirName": "comedy",
+  "slug": "/christianity-john",
+  "permalink": "/christianity-john",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "christianity-john",
+    "title": "John the Hype Man",
+    "slug": "/christianity-john"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "Saint Peter Roast",
+    "permalink": "/christianity-saint-peter"
+  },
+  "next": {
+    "title": "Franklin's Crazy Genius",
+    "permalink": "/historical-figures-franklin"
+  }
+}

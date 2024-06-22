@@ -1,0 +1,27 @@
+{
+  "id": "comedy/doc-hypertext",
+  "title": "Hypertext",
+  "description": "英 So, we were talking about hypertext, right? And how it's kinda lost its original meaning over the years. It's like we all got so caught up in the shiny new web that we forgot what the damn thing was supposed to be about.",
+  "source": "@site/docs/comedy/hypertext.md",
+  "sourceDirName": "comedy",
+  "slug": "/comedy-hypertext",
+  "permalink": "/Comedy-Uwajima/comedy-hypertext",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "doc-hypertext",
+    "title": "Hypertext",
+    "slug": "/comedy-hypertext"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "Bitcoin",
+    "permalink": "/Comedy-Uwajima/comedy-bitcoin"
+  },
+  "next": {
+    "title": "Nvidia",
+    "permalink": "/Comedy-Uwajima/comedy-nvidia"
+  }
+}

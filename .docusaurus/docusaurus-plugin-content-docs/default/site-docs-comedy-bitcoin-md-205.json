@@ -1,0 +1,27 @@
+{
+  "id": "comedy/doc-bitcoin",
+  "title": "Bitcoin",
+  "description": "英Alright folks, buckle up 'cause we're about to take a wild ride through the crypto shit-show!",
+  "source": "@site/docs/comedy/bitcoin.md",
+  "sourceDirName": "comedy",
+  "slug": "/comedy-bitcoin",
+  "permalink": "/Comedy-Uwajima/comedy-bitcoin",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "doc-bitcoin",
+    "title": "Bitcoin",
+    "slug": "/comedy-bitcoin"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "Umesao",
+    "permalink": "/Comedy-Uwajima/comedy-umesao"
+  },
+  "next": {
+    "title": "Hypertext",
+    "permalink": "/Comedy-Uwajima/comedy-hypertext"
+  }
+}

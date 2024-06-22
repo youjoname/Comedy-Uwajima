@@ -1,0 +1,16 @@
+{
+  "id": "greeting",
+  "title": "Hello from Docusaurus",
+  "description": "Create a doc page with rich content.",
+  "source": "@site/docs/greeting.md",
+  "sourceDirName": ".",
+  "slug": "/greeting",
+  "permalink": "/greeting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Create a doc page with rich content."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "comedy/cooking-potato-memories",
+  "title": "Potato Memories",
+  "description": "英 Alright, so your mom grew up on a potato farm in Idaho, huh? That's like the Siberia of the United States, am I right?",
+  "source": "@site/docs/comedy/cooking-potato-memories.md",
+  "sourceDirName": "comedy",
+  "slug": "/cooking-potato-memories",
+  "permalink": "/cooking-potato-memories",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "cooking-potato-memories",
+    "title": "Potato Memories",
+    "slug": "/cooking-potato-memories"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "The Great Yakiniku Revolution",
+    "permalink": "/cooking-yakiniku"
+  },
+  "next": {
+    "title": "The Ramen Empire Strikes Back",
+    "permalink": "/cooking-ramen"
+  }
+}

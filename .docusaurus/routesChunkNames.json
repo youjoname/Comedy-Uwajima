@@ -1,0 +1,173 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---comedy-uwajima-docusaurus-debugb-38-86b"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---comedy-uwajima-docusaurus-debugb-38-86b"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---comedy-uwajima-docusaurus-debugb-38-86b"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---comedy-uwajima-docusaurus-debugb-38-86b"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---comedy-uwajima-docusaurus-debugb-38-86b"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---comedy-uwajima-docusaurus-debugb-38-86b"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---comedy-uwajima-docusaurus-debugb-38-86b"
+    }
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---comedy-uwajima-markdown-pagea-74-4fe"
+    },
+    "content": "content---comedy-uwajima-markdown-page-393-43a"
+  },
+  "/-f2e": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---comedy-uwajima-aba-f9c"
+    }
+  },
+  "/-d4b": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---22-d-307"
+  },
+  "/-030": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/christianity-john-5da": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-christianity-john-5-f-2-415"
+  },
+  "/christianity-mary-b48": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-christianity-maryf-96-c9f"
+  },
+  "/christianity-saint-peter-954": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-christianity-saint-peter-800-e40"
+  },
+  "/cooking-bread-835": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-cooking-bread-886-634"
+  },
+  "/cooking-curry-8c6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-cooking-curryd-6-d-375"
+  },
+  "/cooking-potato-memories-530": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-cooking-potato-memoriesa-9-e-ce9"
+  },
+  "/cooking-ramen-524": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-cooking-ramen-68-e-c58"
+  },
+  "/cooking-sushi-nightmare-49d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-cooking-sushi-nightmare-8-a-8-48c"
+  },
+  "/cooking-yakiniku-181": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-cooking-yakinikued-5-721"
+  },
+  "/greeting-dc0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-greeting-179-7b8"
+  },
+  "/historical-figures-franklin-496": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-historical-figures-franklin-719-509"
+  },
+  "/incident-everest-7cc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-incident-everest-624-530"
+  },
+  "/incident-hakkoda-6f4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-incident-hakkodaef-2-656"
+  },
+  "/incident-sewol-3d0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-incident-sewol-0-a-5-fb1"
+  },
+  "/incident-shiretoko-f0b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-incident-shiretoko-524-4f7"
+  },
+  "/planet-mars-07d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-planet-marsb-01-567"
+  },
+  "/planet-mercury-f02": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-planet-mercuryd-40-5f5"
+  },
+  "/planet-pluto-a24": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-planet-plutofd-3-509"
+  },
+  "/tutorial-basics/congratulations-855": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-tutorial-basics-congratulations-822-242"
+  },
+  "/tutorial-basics/create-a-blog-post-af7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-tutorial-basics-create-a-blog-post-533-299"
+  },
+  "/tutorial-basics/create-a-document-bd4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-tutorial-basics-create-a-document-1-e-4-74e"
+  },
+  "/tutorial-basics/create-a-page-aed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-tutorial-basics-create-a-page-5-c-8-61e"
+  },
+  "/tutorial-basics/deploy-your-site-f5a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-tutorial-basics-deploy-your-sitef-55-45b"
+  },
+  "/tutorial-basics/markdown-features-89e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-tutorial-basics-markdown-features-18-c-d31"
+  },
+  "/tutorial-extras/manage-docs-versions-e1f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-tutorial-extras-manage-docs-versionsdff-714"
+  },
+  "/tutorial-extras/translate-your-site-dea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-tutorial-extras-translate-your-sitee-44-771"
+  },
+  "/-5f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---comedy-uwajima-0-e-3-29b"
+  }
+}

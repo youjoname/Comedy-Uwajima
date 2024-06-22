@@ -1,0 +1,154 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "comedy/christianity-john",
+              "path": "/christianity-john",
+              "sidebar": "comedy"
+            },
+            {
+              "id": "comedy/christianity-mary",
+              "path": "/christianity-mary",
+              "sidebar": "comedy"
+            },
+            {
+              "id": "comedy/christianity-saint-peter",
+              "path": "/christianity-saint-peter",
+              "sidebar": "comedy"
+            },
+            {
+              "id": "comedy/cooking-bread",
+              "path": "/cooking-bread",
+              "sidebar": "comedy"
+            },
+            {
+              "id": "comedy/cooking-curry",
+              "path": "/cooking-curry",
+              "sidebar": "comedy"
+            },
+            {
+              "id": "comedy/cooking-potato-memories",
+              "path": "/cooking-potato-memories",
+              "sidebar": "comedy"
+            },
+            {
+              "id": "comedy/cooking-ramen",
+              "path": "/cooking-ramen",
+              "sidebar": "comedy"
+            },
+            {
+              "id": "comedy/cooking-sushi-nightmare",
+              "path": "/cooking-sushi-nightmare",
+              "sidebar": "comedy"
+            },
+            {
+              "id": "comedy/cooking-yakiniku",
+              "path": "/cooking-yakiniku",
+              "sidebar": "comedy"
+            },
+            {
+              "id": "comedy/historical-figures-franklin",
+              "path": "/historical-figures-franklin",
+              "sidebar": "comedy"
+            },
+            {
+              "id": "comedy/incident-everest",
+              "path": "/incident-everest",
+              "sidebar": "comedy"
+            },
+            {
+              "id": "comedy/incident-hakkoda",
+              "path": "/incident-hakkoda",
+              "sidebar": "comedy"
+            },
+            {
+              "id": "comedy/incident-sewol",
+              "path": "/incident-sewol",
+              "sidebar": "comedy"
+            },
+            {
+              "id": "comedy/incident-shiretoko",
+              "path": "/incident-shiretoko",
+              "sidebar": "comedy"
+            },
+            {
+              "id": "comedy/planet-mars",
+              "path": "/planet-mars",
+              "sidebar": "comedy"
+            },
+            {
+              "id": "comedy/planet-mercury",
+              "path": "/planet-mercury",
+              "sidebar": "comedy"
+            },
+            {
+              "id": "comedy/planet-pluto",
+              "path": "/planet-pluto",
+              "sidebar": "comedy"
+            },
+            {
+              "id": "greeting",
+              "path": "/greeting"
+            },
+            {
+              "id": "intro",
+              "path": "/",
+              "sidebar": "comedy"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/tutorial-basics/congratulations"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/tutorial-basics/create-a-blog-post"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/tutorial-basics/create-a-document"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/tutorial-basics/create-a-page"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/tutorial-basics/deploy-your-site"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/tutorial-basics/markdown-features"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/tutorial-extras/manage-docs-versions"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/tutorial-extras/translate-your-site"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "comedy": {
+              "link": {
+                "path": "/",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

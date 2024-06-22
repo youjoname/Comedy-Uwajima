@@ -1,0 +1,27 @@
+{
+  "id": "comedy/doc-gpt-4o",
+  "title": "GPT-4o",
+  "description": "英 Hey folks, we've got an interesting topic today.",
+  "source": "@site/docs/comedy/gpt-4o.md",
+  "sourceDirName": "comedy",
+  "slug": "/comedy-gpt-4o",
+  "permalink": "/Comedy-Uwajima/comedy-gpt-4o",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "doc-gpt-4o",
+    "title": "GPT-4o",
+    "slug": "/comedy-gpt-4o"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "Pluto",
+    "permalink": "/Comedy-Uwajima/comedy-pluto"
+  },
+  "next": {
+    "title": "Pizza",
+    "permalink": "/Comedy-Uwajima/comedy-pizza"
+  }
+}

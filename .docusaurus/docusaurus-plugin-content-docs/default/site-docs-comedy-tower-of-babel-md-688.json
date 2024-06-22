@@ -1,0 +1,27 @@
+{
+  "id": "comedy/doc-tower-of-babel",
+  "title": "Tower of Babel",
+  "description": "英 Today, we're diving into the Tower of Babel, that legendary tale where God scrambled everyone's languages.",
+  "source": "@site/docs/comedy/tower-of-babel.md",
+  "sourceDirName": "comedy",
+  "slug": "/comedy-tower-of-babel",
+  "permalink": "/Comedy-Uwajima/comedy-tower-of-babel",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "doc-tower-of-babel",
+    "title": "Tower of Babel",
+    "slug": "/comedy-tower-of-babel"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "Transgender",
+    "permalink": "/Comedy-Uwajima/comedy-transgender"
+  },
+  "next": {
+    "title": "Umesao",
+    "permalink": "/Comedy-Uwajima/comedy-umesao"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "comedy/planet-mercury",
+  "title": "Mercury's Solar Roast",
+  "description": "英 Hey there, space cadets! Today we're going to Mercury, the planet that's basically one giant tanning bed on steroids. Let's welcome our guest!",
+  "source": "@site/docs/comedy/planet-mercury.md",
+  "sourceDirName": "comedy",
+  "slug": "/planet-mercury",
+  "permalink": "/planet-mercury",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "planet-mercury",
+    "title": "Mercury's Solar Roast",
+    "slug": "/planet-mercury"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "Kuriki's Everest Challenge",
+    "permalink": "/incident-everest"
+  },
+  "next": {
+    "title": "Mars Colonization and Future Science",
+    "permalink": "/planet-mars"
+  }
+}

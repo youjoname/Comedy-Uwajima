@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "🎵 Welcome",
+  "description": "ようこそ、笑いの渦巻く英語学習の世界「コメディ宇和島」へ！　このページでは、日常でよく使う英語フレーズをユーモアたっぷりにアレンジして、楽しく英語をマスターできます。音声の速度はすべて0.8倍速に設定してあります。およそ120～160WPM(Words Per Minute)です。",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "intro",
+    "title": "🎵 Welcome",
+    "slug": "/"
+  },
+  "sidebar": "comedy",
+  "next": {
+    "title": "Virgin Mary Myth and Future of Reproduction",
+    "permalink": "/christianity-mary"
+  }
+}

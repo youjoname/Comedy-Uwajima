@@ -1,0 +1,23 @@
+{
+  "id": "comedy/planet-pluto",
+  "title": "Pluto",
+  "description": "英 So, I'm reading this article about Pluto, right?",
+  "source": "@site/docs/comedy/planet-pluto.md",
+  "sourceDirName": "comedy",
+  "slug": "/planet-pluto",
+  "permalink": "/planet-pluto",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "planet-pluto",
+    "title": "Pluto",
+    "slug": "/planet-pluto"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "Mars Colonization and Future Science",
+    "permalink": "/planet-mars"
+  }
+}

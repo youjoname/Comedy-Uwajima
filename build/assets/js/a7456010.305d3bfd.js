@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcomedy_uwajima=self.webpackChunkcomedy_uwajima||[]).push([[235],{8552:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

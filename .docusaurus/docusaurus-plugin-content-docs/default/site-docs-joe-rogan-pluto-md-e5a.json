@@ -1,0 +1,23 @@
+{
+  "id": "joe-rogan/doc-pluto",
+  "title": "Pluto",
+  "description": "英 So, I'm reading this article about Pluto, right? And it's like, this whole existential crisis for a dwarf planet.",
+  "source": "@site/docs/joe-rogan/pluto.md",
+  "sourceDirName": "joe-rogan",
+  "slug": "/comedy-pluto",
+  "permalink": "/comedy-pluto",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "doc-pluto",
+    "title": "Pluto",
+    "slug": "/comedy-pluto"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hello from Docusaurus",
+    "permalink": "/greeting"
+  }
+}
