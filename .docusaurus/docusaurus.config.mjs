@@ -7,16 +7,16 @@ export default {
   "title": "コメディ宇和島",
   "tagline": "ようこそ、笑いの渦巻く英語学習の世界「コメディ宇和島」へ！",
   "favicon": "img/favicon.ico",
-  "url": "https://joyful-dusk-c004a2.netlify.app",
+  "url": "https://comedy-uwajima.netlify.app",
   "baseUrl": "/",
   "organizationName": "youjoname",
   "projectName": "Comedy-Uwajima",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
-    "defaultLocale": "en",
+    "defaultLocale": "ja",
     "locales": [
-      "en"
+      "ja"
     ],
     "path": "i18n",
     "localeConfigs": {}

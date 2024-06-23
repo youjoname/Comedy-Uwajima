@@ -1,7 +1,7 @@
 {
   "id": "intro",
-  "title": "🎵 Welcome",
-  "description": "ようこそ、笑いの渦巻く英語学習の世界「コメディ宇和島」へ！　このページでは、日常でよく使う英語フレーズをユーモアたっぷりにアレンジして、楽しく英語をマスターできます。音声の速度はすべて0.8倍速に設定してあります。およそ120～160WPM(Words Per Minute)です。",
+  "title": "🎉 Welcome",
+  "description": "🚀英語が苦手でも大丈夫！💥　コメディ宇和島で笑いながら英語マスター！✨",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/",
@@ -12,7 +12,7 @@
   "version": "current",
   "frontMatter": {
     "id": "intro",
-    "title": "🎵 Welcome",
+    "title": "🎉 Welcome",
     "slug": "/"
   },
   "sidebar": "comedy",
