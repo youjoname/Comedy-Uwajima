@@ -56,6 +56,11 @@
               "sidebar": "comedy"
             },
             {
+              "id": "comedy/grammar-past-subjunctive",
+              "path": "/grammar-past-subjunctive",
+              "sidebar": "comedy"
+            },
+            {
               "id": "comedy/historical-figures-franklin",
               "path": "/historical-figures-franklin",
               "sidebar": "comedy"

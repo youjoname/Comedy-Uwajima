@@ -1,0 +1,27 @@
+{
+  "id": "comedy/fruits",
+  "title": "仮定法過去",
+  "description": "If the world were run by smart people, we wouldn't need comedians to point out the obvious.",
+  "source": "@site/docs/comedy/fruits.mdx",
+  "sourceDirName": "comedy",
+  "slug": "/fruits",
+  "permalink": "/fruits",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "fruits",
+    "title": "仮定法過去",
+    "slug": "/fruits"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "John the Hype Man",
+    "permalink": "/christianity-john"
+  },
+  "next": {
+    "title": "Franklin's Crazy Genius",
+    "permalink": "/historical-figures-franklin"
+  }
+}

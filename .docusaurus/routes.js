@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'f2e'),
+    component: ComponentCreator('/', '3b6'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', 'd4b'),
+        component: ComponentCreator('/', '54d'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '030'),
+            component: ComponentCreator('/', 'd1f'),
             routes: [
               {
                 path: '/christianity-john',
@@ -105,6 +105,12 @@ export default [
               {
                 path: '/cooking-yakiniku',
                 component: ComponentCreator('/cooking-yakiniku', '181'),
+                exact: true,
+                sidebar: "comedy"
+              },
+              {
+                path: '/grammar-past-subjunctive',
+                component: ComponentCreator('/grammar-past-subjunctive', '66c'),
                 exact: true,
                 sidebar: "comedy"
               },
