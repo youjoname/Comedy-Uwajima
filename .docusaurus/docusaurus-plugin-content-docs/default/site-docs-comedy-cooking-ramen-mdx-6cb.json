@@ -1,0 +1,27 @@
+{
+  "id": "comedy/cooking-ramen",
+  "title": "The Ramen Empire Strikes Back",
+  "description": "英 Before you go, one last question. What's the future of ramen? Are we talking flying noodles, teleporting broth?",
+  "source": "@site/docs/comedy/cooking-ramen.mdx",
+  "sourceDirName": "comedy",
+  "slug": "/cooking-ramen",
+  "permalink": "/cooking-ramen",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "cooking-ramen",
+    "title": "The Ramen Empire Strikes Back",
+    "slug": "/cooking-ramen"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "Potato Memories",
+    "permalink": "/cooking-potato-memories"
+  },
+  "next": {
+    "title": "Sushi Nightmare",
+    "permalink": "/cooking-sushi-nightmare"
+  }
+}

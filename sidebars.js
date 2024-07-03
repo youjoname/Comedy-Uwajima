@@ -62,7 +62,7 @@ const sidebars = {
         "comedy/cooking-potato-memories",
         "comedy/cooking-ramen",
         "comedy/cooking-sushi-nightmare",
-        //"comedy/incident-",
+        "comedy/cooking-onigiri",
         //"comedy/incident-",
         //"comedy/incident-",
         //"comedy/incident-",

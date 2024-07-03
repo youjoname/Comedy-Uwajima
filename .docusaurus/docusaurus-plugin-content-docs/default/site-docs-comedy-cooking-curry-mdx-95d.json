@@ -1,0 +1,27 @@
+{
+  "id": "comedy/cooking-curry",
+  "title": "Futuristic Japanese Curry",
+  "description": "英 Folks, we're diving into some mind-blowing future cooking today.",
+  "source": "@site/docs/comedy/cooking-curry.mdx",
+  "sourceDirName": "comedy",
+  "slug": "/cooking-curry",
+  "permalink": "/cooking-curry",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "cooking-curry",
+    "title": "Futuristic Japanese Curry",
+    "slug": "/cooking-curry"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "Franklin's Crazy Genius",
+    "permalink": "/historical-figures-franklin"
+  },
+  "next": {
+    "title": "Bread Therapy Changing Lives of Seniors",
+    "permalink": "/cooking-bread"
+  }
+}

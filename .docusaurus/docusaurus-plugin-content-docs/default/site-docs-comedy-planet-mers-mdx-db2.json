@@ -1,0 +1,27 @@
+{
+  "id": "comedy/planet-mars",
+  "title": "Mars Colonization and Future Science",
+  "description": "英Tonight my guest is a true comedy legend who's gonna give us his uniquely insightful and biting perspective on some cutting-edge science. Please welcome the one and only Guest!",
+  "source": "@site/docs/comedy/planet-mers.mdx",
+  "sourceDirName": "comedy",
+  "slug": "/planet-mars",
+  "permalink": "/planet-mars",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "planet-mars",
+    "title": "Mars Colonization and Future Science",
+    "slug": "/planet-mars"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "Mercury's Solar Roast",
+    "permalink": "/planet-mercury"
+  },
+  "next": {
+    "title": "Pluto",
+    "permalink": "/planet-pluto"
+  }
+}

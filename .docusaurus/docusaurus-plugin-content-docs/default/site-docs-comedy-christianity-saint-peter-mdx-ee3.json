@@ -1,0 +1,27 @@
+{
+  "id": "comedy/christianity-saint-peter",
+  "title": "Saint Peter Roast",
+  "description": "英 You know, the tale of Saint Peter is a damn comedy gold mine. This guy was Jesus' main man, part of the holy entourage. But during the big trial, Pete pulls a disappearing act not once, not twice, but three times! Jesus must've been like, \"Seriously, bro? We break bread together and this is how you do me?\"",
+  "source": "@site/docs/comedy/christianity-saint-peter.mdx",
+  "sourceDirName": "comedy",
+  "slug": "/christianity-saint-peter",
+  "permalink": "/christianity-saint-peter",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "christianity-saint-peter",
+    "title": "Saint Peter Roast",
+    "slug": "/christianity-saint-peter"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "Virgin Mary Myth and Future of Reproduction",
+    "permalink": "/christianity-mary"
+  },
+  "next": {
+    "title": "John the Hype Man",
+    "permalink": "/christianity-john"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "comedy/incident-sewol",
+  "title": "The Sewol Ferry Disaster",
+  "description": "英 Folks, today we're diving into a maritime disaster that's more messed up than my first attempt at yoga. We've got a ship safety expert here to break it down.",
+  "source": "@site/docs/comedy/incident-sewol.mdx",
+  "sourceDirName": "comedy",
+  "slug": "/incident-sewol",
+  "permalink": "/incident-sewol",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "incident-sewol",
+    "title": "The Sewol Ferry Disaster",
+    "slug": "/incident-sewol"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "Hakkoda's Deadly Snow Defeats Japanese Army",
+    "permalink": "/incident-hakkoda"
+  },
+  "next": {
+    "title": "Kuriki's Everest Challenge",
+    "permalink": "/incident-everest"
+  }
+}

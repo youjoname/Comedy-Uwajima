@@ -1,0 +1,27 @@
+{
+  "id": "comedy/planet-pluto",
+  "title": "Pluto",
+  "description": "英 So, I'm reading this article about Pluto, right?",
+  "source": "@site/docs/comedy/planet-pluto.mdx",
+  "sourceDirName": "comedy",
+  "slug": "/planet-pluto",
+  "permalink": "/planet-pluto",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "planet-pluto",
+    "title": "Pluto",
+    "slug": "/planet-pluto"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "Mars Colonization and Future Science",
+    "permalink": "/planet-mars"
+  },
+  "next": {
+    "title": "仮定法過去の例文と解説",
+    "permalink": "/grammar-past-subjunctive"
+  }
+}

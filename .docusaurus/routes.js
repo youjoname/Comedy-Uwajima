@@ -44,67 +44,73 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '3b6'),
+    component: ComponentCreator('/', '714'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '54d'),
+        component: ComponentCreator('/', 'cca'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', 'd1f'),
+            component: ComponentCreator('/', 'c68'),
             routes: [
               {
                 path: '/christianity-john',
-                component: ComponentCreator('/christianity-john', '5da'),
+                component: ComponentCreator('/christianity-john', '3ec'),
                 exact: true,
                 sidebar: "comedy"
               },
               {
                 path: '/christianity-mary',
-                component: ComponentCreator('/christianity-mary', 'b48'),
+                component: ComponentCreator('/christianity-mary', '2f3'),
                 exact: true,
                 sidebar: "comedy"
               },
               {
                 path: '/christianity-saint-peter',
-                component: ComponentCreator('/christianity-saint-peter', '954'),
+                component: ComponentCreator('/christianity-saint-peter', 'da6'),
                 exact: true,
                 sidebar: "comedy"
               },
               {
                 path: '/cooking-bread',
-                component: ComponentCreator('/cooking-bread', '835'),
+                component: ComponentCreator('/cooking-bread', '947'),
                 exact: true,
                 sidebar: "comedy"
               },
               {
                 path: '/cooking-curry',
-                component: ComponentCreator('/cooking-curry', '8c6'),
+                component: ComponentCreator('/cooking-curry', '987'),
+                exact: true,
+                sidebar: "comedy"
+              },
+              {
+                path: '/cooking-onigiri',
+                component: ComponentCreator('/cooking-onigiri', '1b6'),
                 exact: true,
                 sidebar: "comedy"
               },
               {
                 path: '/cooking-potato-memories',
-                component: ComponentCreator('/cooking-potato-memories', '530'),
+                component: ComponentCreator('/cooking-potato-memories', 'ec8'),
                 exact: true,
                 sidebar: "comedy"
               },
               {
                 path: '/cooking-ramen',
-                component: ComponentCreator('/cooking-ramen', '524'),
+                component: ComponentCreator('/cooking-ramen', '4e7'),
                 exact: true,
                 sidebar: "comedy"
               },
               {
                 path: '/cooking-sushi-nightmare',
-                component: ComponentCreator('/cooking-sushi-nightmare', '49d'),
+                component: ComponentCreator('/cooking-sushi-nightmare', 'd21'),
                 exact: true,
                 sidebar: "comedy"
               },
               {
                 path: '/cooking-yakiniku',
-                component: ComponentCreator('/cooking-yakiniku', '181'),
+                component: ComponentCreator('/cooking-yakiniku', '41c'),
                 exact: true,
                 sidebar: "comedy"
               },
@@ -121,49 +127,49 @@ export default [
               },
               {
                 path: '/historical-figures-franklin',
-                component: ComponentCreator('/historical-figures-franklin', '496'),
+                component: ComponentCreator('/historical-figures-franklin', 'ee6'),
                 exact: true,
                 sidebar: "comedy"
               },
               {
                 path: '/incident-everest',
-                component: ComponentCreator('/incident-everest', '7cc'),
+                component: ComponentCreator('/incident-everest', '89d'),
                 exact: true,
                 sidebar: "comedy"
               },
               {
                 path: '/incident-hakkoda',
-                component: ComponentCreator('/incident-hakkoda', '6f4'),
+                component: ComponentCreator('/incident-hakkoda', 'acb'),
                 exact: true,
                 sidebar: "comedy"
               },
               {
                 path: '/incident-sewol',
-                component: ComponentCreator('/incident-sewol', '3d0'),
+                component: ComponentCreator('/incident-sewol', '37e'),
                 exact: true,
                 sidebar: "comedy"
               },
               {
                 path: '/incident-shiretoko',
-                component: ComponentCreator('/incident-shiretoko', 'f0b'),
+                component: ComponentCreator('/incident-shiretoko', 'ada'),
                 exact: true,
                 sidebar: "comedy"
               },
               {
                 path: '/planet-mars',
-                component: ComponentCreator('/planet-mars', '07d'),
+                component: ComponentCreator('/planet-mars', 'b2c'),
                 exact: true,
                 sidebar: "comedy"
               },
               {
                 path: '/planet-mercury',
-                component: ComponentCreator('/planet-mercury', 'f02'),
+                component: ComponentCreator('/planet-mercury', '539'),
                 exact: true,
                 sidebar: "comedy"
               },
               {
                 path: '/planet-pluto',
-                component: ComponentCreator('/planet-pluto', 'a24'),
+                component: ComponentCreator('/planet-pluto', 'b76'),
                 exact: true,
                 sidebar: "comedy"
               },

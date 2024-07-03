@@ -36,6 +36,11 @@
               "sidebar": "comedy"
             },
             {
+              "id": "comedy/cooking-onigiri",
+              "path": "/cooking-onigiri",
+              "sidebar": "comedy"
+            },
+            {
               "id": "comedy/cooking-potato-memories",
               "path": "/cooking-potato-memories",
               "sidebar": "comedy"

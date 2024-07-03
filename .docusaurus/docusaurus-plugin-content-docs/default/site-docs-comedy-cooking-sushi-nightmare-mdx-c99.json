@@ -1,0 +1,27 @@
+{
+  "id": "comedy/cooking-sushi-nightmare",
+  "title": "Sushi Nightmare",
+  "description": "英 Alright, so picture this: I waddle into this sushi joint, right? It's like stepping into a morgue for fish. Neon signs flickering like dying heartbeats, chrome gleaming like freshly polished coffins - the whole morbid shebang.",
+  "source": "@site/docs/comedy/cooking-sushi-nightmare.mdx",
+  "sourceDirName": "comedy",
+  "slug": "/cooking-sushi-nightmare",
+  "permalink": "/cooking-sushi-nightmare",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "cooking-sushi-nightmare",
+    "title": "Sushi Nightmare",
+    "slug": "/cooking-sushi-nightmare"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "The Ramen Empire Strikes Back",
+    "permalink": "/cooking-ramen"
+  },
+  "next": {
+    "title": "The Art of Making Onigiri",
+    "permalink": "/cooking-onigiri"
+  }
+}

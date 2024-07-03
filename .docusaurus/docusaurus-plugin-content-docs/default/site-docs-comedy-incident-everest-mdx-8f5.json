@@ -1,0 +1,27 @@
+{
+  "id": "comedy/incident-everest",
+  "title": "Kuriki's Everest Challenge",
+  "description": "英 Let's talk about Takashi Kuriki - a guy who looked at Mount Everest and said, \"You can take my fingers, but you can't take my dream!\" Born in Hokkaido, he climbed the highest peaks on six continents. Just one shy of the seven summits club, and you know which one gave him trouble.",
+  "source": "@site/docs/comedy/incident-everest.mdx",
+  "sourceDirName": "comedy",
+  "slug": "/incident-everest",
+  "permalink": "/incident-everest",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "incident-everest",
+    "title": "Kuriki's Everest Challenge",
+    "slug": "/incident-everest"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "The Sewol Ferry Disaster",
+    "permalink": "/incident-sewol"
+  },
+  "next": {
+    "title": "Mercury's Solar Roast",
+    "permalink": "/planet-mercury"
+  }
+}

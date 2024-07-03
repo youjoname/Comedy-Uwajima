@@ -1,0 +1,27 @@
+{
+  "id": "comedy/historical-figures-franklin",
+  "title": "Franklin's Crazy Genius",
+  "description": "英Ladies and gentlemen, let me tell you about this wild-eyed lunatic, this absolute madman, this…… founding father we call Ben Franklin.",
+  "source": "@site/docs/comedy/historical-figures-franklin.mdx",
+  "sourceDirName": "comedy",
+  "slug": "/historical-figures-franklin",
+  "permalink": "/historical-figures-franklin",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "historical-figures-franklin",
+    "title": "Franklin's Crazy Genius",
+    "slug": "/historical-figures-franklin"
+  },
+  "sidebar": "comedy",
+  "previous": {
+    "title": "John the Hype Man",
+    "permalink": "/christianity-john"
+  },
+  "next": {
+    "title": "Futuristic Japanese Curry",
+    "permalink": "/cooking-curry"
+  }
+}
